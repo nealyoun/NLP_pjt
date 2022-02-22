@@ -1,6 +1,9 @@
 
+# OS Generated Files #
 */.DS_Store
+**/.DS_Store
 
+# Python3 Files #
 .ipynb_checkpoints
 
 
